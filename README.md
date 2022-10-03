@@ -8,6 +8,7 @@ Project Objective:
 4. Familiarize with the abstraction provided by Remote Procedure Calls (RPCs) and implement digital signatures in RSA. 
 
 Tasks: 
+
 0. Modify Server & Client code from in-class Lab to print certain messages and respond to given commands.
 1. Simulate a man-in-the-middle attack
 2. Create a simple addition method on the server that is called by the client, server responds with a running total. Server keeps track of total as long as it's running (client can exit / return and see the same total).
