@@ -16,3 +16,6 @@ Tasks:
 4. Repeat Task 3 using TCP instead of UDP.
 5. Implement RSA & digitally sign messages (modeled after ETH signatures).
 
+Topics/Skills covered:
+- UDP / TCP interactions
+- 
