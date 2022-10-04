@@ -17,8 +17,8 @@
 5. Implement RSA & digitally sign messages (modeled after ETH signatures).
 
 **Topics/Skills covered:**
-- Eavesdropper / MITM attacks
 - Client/Server interactions using both TCP & UDP
+- Eavesdropper / MITM attacks
 - Digital Signatures 
 - RSA public / private key encryption
 
