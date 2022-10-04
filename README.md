@@ -34,6 +34,13 @@ Created an eavsdropper that intercepts messages from spoofed port (in this case,
 ![task1](https://user-images.githubusercontent.com/114946651/193727116-87f0b6e7-d90e-44a4-a6f0-fc6990157e85.png)
 
 Task 2:
+Client-side console output. The client enters a number and the server adds that number to the running total, then returns the running total to the client. Ignore the spelling mistake.
+![Picture1](https://user-images.githubusercontent.com/114946651/193728474-e40a94f3-bec1-42a4-af3b-b715b56c705f.jpg)
+
+Server-side console output. Shows the addition operation and the result, and what is being returned to the client.
+![Picture1](https://user-images.githubusercontent.com/114946651/193728826-03003b29-6536-4e90-9c3a-05349c3b83f8.jpg)
+
+
 
 
 
