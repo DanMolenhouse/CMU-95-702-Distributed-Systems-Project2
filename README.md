@@ -4,7 +4,7 @@
 **Project Objective:**
 1. Understand client side and server side UDP and TCP sockets.
 2. Simulate a man-in-the-middle attack and understand the indicators and implications of this type of attack.
-3. Understand TCP and UDP protocols through first-hand experience.
+3. Understand TCP and UDP through first-hand experience.
 4. Familiarize with the abstraction provided by Remote Procedure Calls (RPCs) and implement digital signatures in RSA. 
 
 **Tasks:** 
@@ -17,8 +17,10 @@
 5. Implement RSA & digitally sign messages (modeled after ETH signatures).
 
 **Topics/Skills covered:**
-- UDP / TCP interactions
-- 
+- Eavesdropper / MITM attacks
+- Client/Server interactions using both TCP & UDP
+- Digital Signatures 
+- RSA public / private key encryption
 
 **Demonstration of completed tasks:**
 
