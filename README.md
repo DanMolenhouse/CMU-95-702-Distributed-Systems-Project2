@@ -12,7 +12,7 @@
 0. Modify Server & Client code from in-class Lab to print certain messages and respond to given commands.
 1. Simulate a man-in-the-middle attack
 2. Create a basic addition method on the server that is called by the client, server responds with a running total. Server keeps track of total as long as it's running (client can exit / return and see the same total).
-3. Same principle as Task 2, but adds a method for basic subtraction, and an option to get a sum. Additionally, multiple client ID's can be tracked. 
+3. Same principle as Task 2, but adds functionality to track multiple client IDs, subtract from the total, and get the current total for any of the IDs tracked.
 4. Repeat Task 3 using TCP instead of UDP.
 5. Implement RSA & digitally sign messages (modeled after ETH signatures).
 
