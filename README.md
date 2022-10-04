@@ -43,11 +43,23 @@ Server-side console output. Shows the addition operation and the result, and wha
 ![Picture1](https://user-images.githubusercontent.com/114946651/193728826-03003b29-6536-4e90-9c3a-05349c3b83f8.jpg)
 
 **Task 3:**
-
 Expanded upon task 2, added multiple users, subtraction, and GET functionality. Client-side console output:
 ![Picture1](https://user-images.githubusercontent.com/114946651/193733352-2ea15924-a172-41d9-8d1a-23a17598ca6f.jpg)
 
 Server-side console output:
 ![Picture1](https://user-images.githubusercontent.com/114946651/193733658-29cdf834-8cdd-45b6-9a29-6b232615df73.jpg)
 
+**Task 4:**
+Functionality is identical to Task 3, it just uses TCP instead of UDP. Client-side console output:
+![Picture1](https://user-images.githubusercontent.com/114946651/193733906-458c699e-7740-45e7-9a8e-0f51acfac7f2.jpg)
+
+Server-side console output:
+![Picture2](https://user-images.githubusercontent.com/114946651/193734116-e5048bc4-747c-42c4-a357-5758a3b55ba9.jpg)
+
+**Task 5:**
+Task 4 functionality with RSA & digital signatures added. Client-side console output:
+![Picture1](https://user-images.githubusercontent.com/114946651/193734316-f2561e47-2e5d-46c8-b553-b4eeabf6778d.jpg)
+
+Server-side console output:
+![Picture2](https://user-images.githubusercontent.com/114946651/193734336-b3e9b70e-85ab-4768-85e0-fda6de42b0f3.jpg)
 
