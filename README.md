@@ -1,5 +1,5 @@
-# CMU-95-702-Distributed-Systems-Project2
-**Project 2 for CMU course 95-702 (Distributed Systems) Spring 2022**
+# Distributed-Systems-Project2
+**Project 2 - Distributed Systems**
 
 **Project Objective:**
 1. Understand client side and server side UDP and TCP sockets.
