@@ -1,4 +1,4 @@
-# Distributed-Systems-Project2
+# Distributed-Systems-Project2-Client-Server-Interactions
 **Project 2 - Distributed Systems**
 
 **Project Objective:**
